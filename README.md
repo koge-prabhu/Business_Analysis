@@ -6,7 +6,7 @@ The analysis covers sales, expenses, and profit trends across years, products, a
 ---
 
 ## Project Preview
-![Business Data Analysis Dashboard](Business%20Data%20Analysis%20Dashboard.png.png)
+<img src="https://github.com/koge-prabhu/Business_Analysis/blob/main/Business%20Data%20Analysis%20Dashboard.png.png" width="800">
 
 ---
 
